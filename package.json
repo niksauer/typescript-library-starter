@@ -58,7 +58,7 @@
     "@typescript-eslint/eslint-plugin": "^3.0.1-alpha.13",
     "@typescript-eslint/parser": "^3.0.1-alpha.13",
     "ava": "3.8.2",
-    "codecov": "^3.5.0",
+    "codecov": "^3.7.1",
     "cz-conventional-changelog": "^3.2.0",
     "eslint": "^7.1.0",
     "eslint-config-prettier": "^6.11.0",
